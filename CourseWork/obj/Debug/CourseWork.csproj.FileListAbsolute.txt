@@ -1,0 +1,12 @@
+D:\Vaps\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+D:\Vaps\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+D:\Vaps\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+D:\Vaps\CourseWork\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+D:\Vaps\CourseWork\CourseWork\obj\Debug\CourseWork.Form1.resources
+D:\Vaps\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+D:\Vaps\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+D:\Vaps\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+D:\Vaps\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+D:\Vaps\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+D:\Vaps\CourseWork\CourseWork\obj\Debug\CourseWork.Form2.resources
+D:\Vaps\CourseWork\CourseWork\obj\Debug\CourseWork.Form3.resources
